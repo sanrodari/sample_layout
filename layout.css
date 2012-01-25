@@ -1,0 +1,38 @@
+div#wrapper{
+  width: 990px;
+  height: 840px;
+  margin: 50px auto 10px auto;
+}
+
+div#title{
+  width: 200px;
+  margin: 0 200px 0 0;
+  float: left;
+}
+
+div#nav{
+  float: right;
+}
+
+div#nav ul{
+  list-style-type: none;
+}
+
+div#nav li{
+  padding: 0 10px 0 10px;
+  float: left;
+}
+
+div#central-content{
+  margin: 20px 0px 20px 0px;
+}
+
+div#left-content{
+  float: left;
+  padding: 0 10px 0 0px;
+}
+
+div#right-content{
+  float: right;
+  padding: 0 0px 0 10px;
+}
